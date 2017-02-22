@@ -26,6 +26,7 @@ Things you may want to cover:
 # Devcam Portfolio Application
 
 >This is a Ruby on Rails 5 application that allows users to create their own protfolios.
+ 
  ### Features
 
  -Real time chat engin for comments
@@ -35,7 +36,8 @@ Things you may want to cover:
 
  ### Code Example
 
-'```ruby
+```ruby
 def my_great_method
   puts "here it is"
 end
+```
