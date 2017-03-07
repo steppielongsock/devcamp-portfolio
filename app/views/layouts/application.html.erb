@@ -20,10 +20,6 @@
 
     <%= yield %>
     
-    <div>
-    <% if session[:source] %>
-      Thanks for visiting me from <%= session[:source] %>.
-    <% end %>
-    </div>
+    <%= source_helper("application") %>
   </body>
 </html>
