@@ -57,6 +57,8 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
 gem 'pinion_view_tool', '~> 0.1.0'
+# Petergate is used for Authorization
+gem 'petergate', '~> 1.7'
 
 
 
