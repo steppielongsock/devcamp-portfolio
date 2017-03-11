@@ -59,7 +59,10 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'pinion_view_tool', '~> 0.1.0'
 # Petergate is used for Authorization
 gem 'petergate', '~> 1.7'
-
+# Font-awesome-rails for images in blogs
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
+# Kaminari Gem installed for blog pagination
+gem 'kaminari', '~> 1.0', '>= 1.0.1'
 
 
 
