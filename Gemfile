@@ -63,7 +63,8 @@ gem 'petergate', '~> 1.7'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.1'
 # Kaminari Gem installed for blog pagination
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
-
+# Use in portfolio drag and drop
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 
 
 
