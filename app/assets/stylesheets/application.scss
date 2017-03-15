@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import "gritter";
 
 /*
  * Globals
@@ -213,7 +214,10 @@ body {
 }
 
 
-
+#gritter-notice-wrapper {
+  margin-top: 50px;
+  margin-right: -20px;
+}
 
 
 

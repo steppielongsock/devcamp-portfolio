@@ -78,4 +78,6 @@ gem 'cocoon', '~> 1.2', '>= 1.2.9'
 # for bootstrap 4
 gem 'tether-rails'
 
+# messaging for forms
+gem 'gritter', '~> 1.2'
 
