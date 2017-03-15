@@ -72,5 +72,10 @@ gem 'mini_magick', '~> 4.6', '>= 4.6.1'
 gem 'carrierwave-aws', '~> 1.1'
 gem 'dotenv-rails', '~> 2.2'
 
+# Used for creating a dynamic javascript form on portfolios new and edit for technologies
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
+
+# for bootstrap 4
+gem 'tether-rails'
 
 
