@@ -80,4 +80,5 @@ gem 'tether-rails'
 
 # messaging for forms
 gem 'gritter', '~> 1.2'
-
+# Gem used for twiller api implimentation
+gem 'twitter', '~> 6.1'
