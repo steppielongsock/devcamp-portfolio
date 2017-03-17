@@ -82,3 +82,5 @@ gem 'tether-rails'
 gem 'gritter', '~> 1.2'
 # Gem used for twiller api implimentation
 gem 'twitter', '~> 6.1'
+# Gem used for actioncable comments
+gem 'redis', '~> 3.3', '>= 3.3.3'
