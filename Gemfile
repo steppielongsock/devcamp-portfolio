@@ -84,3 +84,6 @@ gem 'gritter', '~> 1.2'
 gem 'twitter', '~> 6.1'
 # Gem used for actioncable comments
 gem 'redis', '~> 3.3', '>= 3.3.3'
+# Gems for Markdown
+gem 'redcarpet', '~> 3.4'
+gem 'coderay', '~> 1.1', '>= 1.1.1'
